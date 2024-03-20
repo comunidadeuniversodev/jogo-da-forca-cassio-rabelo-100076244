@@ -1,7 +1,14 @@
 Este projeto faz parte do [Universo DEV](https://www.universodev.com.br), o melhor lugar para aprender a programar mesmo que esteja começando do mais absoluto zero.
 
-# Pratique o uso do Git/GitHub
+## Bora jogar o Jogo da Forca:
 
-### Bora praticar jogo da forca?
+### A dica da sua palavra é: Ocultação de um astro por outro
+### Sua palavra contém 7 letras!
 
-Para começar crie um PR do branch com a inicialização do jogo e siga os passos descritos no Universo DEV.
+    +----+
+    |    |
+    |
+    |
+    |
+    |
+    =================
